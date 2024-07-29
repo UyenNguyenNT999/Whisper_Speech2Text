@@ -26,3 +26,5 @@
     ```
     sudo docker run -p 3000:3000 -d dockerweb:v1
     ```
+
+In recent years, there has been a significant rise in the challenge of Liveness Detection, or face recognition and verification. This project proposes using the BEIT model, a self-supervised vision representation model based on the BERT architecture, to improve face recognition systems. The training dataset includes 1168 videos from the Zalo AI Challenge 2022, with the goal of distinguishing between real and fake masked faces.
